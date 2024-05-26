@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+In this section, describe the analysis you completed for the machine learning models used in this Challenge. 
 
 * Explain the purpose of the analysis. --- The purose of the analysis aimed to assess the effectiveness of a logical regression model in classifying loan applications as either health loans (0) or high-risk loans (1) based on financial attributes.
 * Explain what financial information the data was on, and what you needed to predict -- The data consisted of financial information from loan applications includding loan size, interest rate, borrower income, debt to income ratio, number of accounts derrogatory marks and total debt. The target variable was the loan status, categorized as either 0 (healthy loan) or 1 (high-risk loan).
